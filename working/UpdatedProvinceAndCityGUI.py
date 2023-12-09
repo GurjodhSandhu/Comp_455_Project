@@ -35,7 +35,7 @@ city_label.pack()
 # Drop-down list for city
 city_options = {
     'Alberta': ['Calgary', 'Edmonton'],
-    'British Columbia': ['Vancouver', 'Victoria'],
+    'British Columbia': ['Vancouver', 'Victoria', 'Abbotsford', 'Kelowna'], #enter the rest of the city names 
     'Manitoba': ['Winnipeg'],
     'New Brunswick': ['Moncton', 'Saint John'],
     'Newfoundland and Labrador': ["St. John's"],
